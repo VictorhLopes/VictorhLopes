@@ -1,25 +1,19 @@
-<h1 align="center">QA Senior | Test Automation Engineer</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Victor%20Lopes&fontAlign=50&fontAlignY=35&color=0:67E8F9,50:38BDF8,100:2563EB&fontColor=FFFFFF&desc=QA%20Pleno%20%7C%20Playwright%20%7C%20Python%20%7C%20Automation&descAlign=50&descAlignY=55&descSize=18" />
+</p>
+# Olá, eu sou Victor Lopes 👋
 
 <p align="center">
-Automação • Qualidade • CI/CD • Playwright • Python
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=QA+Pleno;Playwright+%2B+Python;Test+Automation+Engineer;CI%2FCD+Enthusiast;Breaking+Software+Before+Users+Do" />
 </p>
-# Olá, eu sou Victor Hugo 👋
-
-QA Senior | Test Automation Engineer
-
-<p align="center">
-  🐞 ➜ 🔍 ➜ ✅
-</p>
-
-
 Atuo com qualidade de software, testes automatizados e melhoria contínua de processos, contribuindo para entregas mais seguras e eficientes.
 
----
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
----
 
+---
 ## Sobre mim
 
 * QA com foco em qualidade ponta a ponta
@@ -29,38 +23,26 @@ Atuo com qualidade de software, testes automatizados e melhoria contínua de pro
 * Explorando IA aplicada à Engenharia de Qualidade
 * Defensor da cultura de qualidade desde o planejamento até a produção
 
----
+🔍 Testing
+┣━━ 🎭 Playwright
+┣━━ 🐍 Python
+┗━━ 📬 Postman
 
-## Stack Principal
+📊 Data
+┣━━ 🗄 SQL
+┗━━ 🦫 DBeaver
 
-**Automação**
+🤖 AI
+┣━━ ChatGPT
+┣━━ Gemini
+┗━━ Cursor
 
-* Playwright
-* Pytest
-* Selenium
+🚀 Agile
+┣━━ Jira
+┣━━ ClickUp
+┣━━ Trello
+┗━━ Azure DevOps
 
-**Linguagens**
-
-* Python
-* JavaScript
-* SQL
-
-**DevOps & Qualidade**
-
-* Git
-* GitHub Actions
-* Azure DevOps
-* Jenkins
-
-**Testes**
-
-* UI Testing
-* API Testing
-* Regression Testing
-* E2E Testing
-* Exploratory Testing
-
----
 
 ## Projetos em Destaque
 
