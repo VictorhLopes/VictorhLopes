@@ -11,7 +11,7 @@ Este repositório não é apenas sobre código limpo e testes automatizados, é 
 
 ## 🌟 Nosso Status Atual
 
-⭐ ⭐ ⭐ ⭐ ⭐ 🎯 `[ ⁶ ]`
+⭐ ⭐ ⭐ ⭐ ⭐ <sup>6</sup>
 *(Penta garantido, Hexa em desenvolvimento...)*
 
 ---
