@@ -3,23 +3,15 @@
 </p>
 # Olá, eu sou Victor Lopes 👋
 
-# 🏆 Rumo ao Hexa 🇧🇷
 
-> **"A qualidade que constrói confiança... e busca a sexta estrela!"**
-
-Este repositório não é apenas sobre código limpo e testes automatizados, é também sobre a persistência brasileira em busca da excelência (e do Hexa!). Assim como no futebol, no desenvolvimento de software e em QA nós planejamos, testamos, corrigimos e repetimos até alcançar a perfeição.
-
-## 🌟 Nosso Status Atual
-
-⭐ ⭐ ⭐ ⭐ ⭐ <sup>6</sup>
-*(Penta garantido, Hexa em desenvolvimento...)*
+Este repositório não é apenas sobre código limpo e testes automatizados, é também sobre a persistência em busca da excelência. No desenvolvimento de software e em QA nós planejamos, testamos, corrigimos e repetimos até alcançar a perfeição.
 
 ---
 
 ### 🛠️ Tecnologias & Foco
-* **Test Automation** (Garantindo que o sistema não dê "7x1")
-* **Playwright & Python** (Nossa zaga e ataque infalíveis contra os bugs)
-* **Continuous Improvement** (Porque o ciclo de teste nunca para)
+* **Test Automation** 
+* **Playwright & Python** 
+* **Continuous Improvement**
 
 ---
 <p align="center">
