@@ -51,6 +51,7 @@ Atuo com qualidade de software, testes automatizados e melhoria contínua de pro
 ┣━━ ChatGPT
 ┣━━ Gemini
 ┗━━ Cursor
+┗━━ Claude
 
 🚀 Agile
 ┣━━ Jira
