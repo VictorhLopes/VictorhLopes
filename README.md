@@ -1,9 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Victor%20Lopes&fontAlign=50&fontAlignY=35&color=0:67E8F9,50:38BDF8,100:2563EB&fontColor=FFFFFF&desc=QA%20Pleno%20%7C%20Playwright%20%7C%20Python%20%7C%20IA%20%7C%20CLAUDE%20%7C%20CODEX%20%7C%20Automation&descAlign=50&descAlignY=55&descSize=18" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Victor%20Lopes&fontAlign=50&fontAlignY=38&color=0:06B6D4,50:3B82F6,100:1D4ED8&fontColor=FFFFFF&desc=QA%20Engineer%20%7C%20Playwright%20%7C%20Python%20%7C%20Test%20Automation%20%7C%20AI&descAlign=50&descAlignY=58&descSize=16&fontSize=48&animation=fadeIn"
+    width="100%"
+    alt="Victor Lopes - QA Engineer | Playwright | Python | Test Automation | AI"
+  />
 </p>
 # Olá, eu sou Victor Lopes 👋
+<h1>Olá, eu sou Victor Lopes 👋</h1>
 
-
+<div align="right">
+  <img src="./inspector-gadget-lupa.gif" width="150" alt="Inspector Gadget animado">
+</div>
 Este repositório não é apenas sobre código limpo e testes automatizados, é também sobre a persistência em busca da excelência. No desenvolvimento de software e em QA nós planejamos, testamos, corrigimos e repetimos até alcançar a perfeição.
 
 ---
@@ -19,7 +26,11 @@ Este repositório não é apenas sobre código limpo e testes automatizados, é 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=QA+Pleno;Playwright+%2B+Python;Test+Automation+Engineer;CI%2FCD+Enthusiast;Breaking+Software+Before+Users+Do" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=QA+Engineer+%7C+Quality+Assurance;Playwright+%7C+Python+%7C+Test+Automation;AI+Powered+Testing+%7C+Claude+%7C+Codex;CI%2FCD+%7C+Continuous+Testing;Breaking+Software+Before+Users+Do"
+    alt="Typing SVG"
+    width="100%"
+  />
 </p>
 Atuo com qualidade de software, testes automatizados e melhoria contínua de processos, contribuindo para entregas mais seguras e eficientes.
 
