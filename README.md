@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Victor%20Lopes&fontAlign=50&fontAlignY=35&color=0:67E8F9,50:38BDF8,100:2563EB&fontColor=FFFFFF&desc=QA%20Pleno%20%7C%20Playwright%20%7C%20Python%20%7C%20+IA%20%7C%20Automation&descAlign=50&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Victor%20Lopes&fontAlign=50&fontAlignY=35&color=0:67E8F9,50:38BDF8,100:2563EB&fontColor=FFFFFF&desc=QA%20Pleno%20%7C%20Playwright%20%7C%20Python%20%7C%20IA%20%7C%20CLAUDE%20%7C%20CODEX%20%7C%20Automation&descAlign=50&descAlignY=55&descSize=18" />
 </p>
 # Olá, eu sou Victor Lopes 👋
 
